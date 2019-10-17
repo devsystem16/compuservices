@@ -1,0 +1,221 @@
+.title-table {
+    text-align: center;
+    background-color: white;
+    color: #2e6e9e;
+    border: 1px black dotted;
+    font-weight: bold;
+    background-color: rgb(223, 237, 247);
+  }
+ 
+  #tablaDatos table {
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  .MuiTableRow-head-121 {
+    height: 0;
+  }
+  
+  #tablaDatos table tbody tr td {
+    padding: 0px;
+  }
+  
+
+  /* #tablaDatos table tbody tr td { */
+  #tablaDatos table thead tr th:nth-child(14){
+ width: 80px;
+     /* background-color: white */
+ }   
+
+ 
+
+  #tablaDatos table thead th{
+    padding: 3px;
+    font-weight: bold;
+    background-color: rgb(63, 81, 181);
+    color: white;
+    height: 0px;
+    font-weight: bold;
+    text-align: center;
+  }
+ 
+
+  .title-1 {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.1em;
+  }
+  
+.title-2{
+  font-size: 0.8em;
+}
+  
+  #tablaDatos table tbody tr td {
+    /* margin: 0px; */
+    text-align: center;
+    font-size: 0.8em;
+ 
+  }
+  #tablaDatos table tbody tr td:active {
+    /* margin: 0px; */
+    color: #2e6e9e;
+   
+  }
+  .MUIDataTable-responsiveScroll-3 {
+    max-height: inherit;
+    height: 4000px;
+  }
+  
+  .col-md-8 div.MUIDataTable-responsiveScroll-3 {
+    margin: 0px;
+    max-height: 450px;
+  }
+ 
+  
+  #tablaDatos table tbody tr {
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #tablaDatos table thead tr {
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+  }
+ 
+  
+
+ #tablaDatos table thead tr th:nth-child(1), table tbody tr td:nth-child(1){
+ 
+     display:none;
+  }   
+
+  #tablaDatos table thead tr th:nth-child(15), table tbody tr td:nth-child(10){
+   width: 100px;
+ 
+ }   
+
+
+
+#tablaDatos #garantia table thead tr th  {
+ 
+ width: 150px;
+}   
+#tablaDatos #garantia table thead tr th:nth-child(8) {
+ 
+  width: 80px;
+}   
+ 
+ 
+
+
+  #tablaDatos table thead tr th:nth-child(2), table tbody tr td:nth-child(3){
+ 
+    display:none;
+ }   
+
+
+
+  .fondo {
+    background-color: white;
+  
+    border-radius: 5px;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .topes {
+      margin-top: 5px;
+    }
+    .fondo {
+      margin-bottom: 8px;
+    }
+  
+  
+
+    
+ #tablaDatos table tbody tr td div button {
+      margin: 0px; 
+      padding: 0px;;
+   }
+  
+    .title-1 {
+      color: black;
+    }
+    body {
+      background: url("/ws.png");
+    }
+  }
+  
+
+
+
+
+
+  #tablaDatos table .MuiTableCell-root-132:last-child {
+    padding-right: 0px;
+  }
+  #tablaDatos table .MuiIconButton-root-90 {
+    padding: 0px;
+  }
+  
+  #tablaDatos table .MuiSvgIcon-root-101 {
+     margin: 0px; 
+  }
+  
+  /* #tablaDatos table thead tr th {
+      font-weight: bold;  
+    */
+  
+  #tablaDatos table .MUIDataTableHeadCell-toolButton-161 {
+    padding: 25px;
+  }
+  
+  .table {
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    margin-top: 0px;
+  }
+  
+
+ 
+ #tablaDatos table tbody tr td div button {
+ 
+ padding: 3px 3px 3px 0px ;
+ margin:  0px 3px 0px 1px;
+
+}
+ 
+
+#tablaDatos{
+    text-align: right;
+}
+.flotante {
+         
+     position: fixed;
+        bottom:-10px;
+   
+ 
+ 
+}
+
+
+.txt-crud-cliente {
+  width: 100%;
+}
+.txt-crud-cliente-50 {
+  width: 50%;
+  padding-right: 15px;
+ 
+}
+
+
+.title-cliente{
+  text-align: center;
+  margin: 5px;
+   font-size: 25px;
+   font-weight: bold;
+   color:  rgb(63, 81, 181);
+}

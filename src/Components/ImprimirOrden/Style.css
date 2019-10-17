@@ -1,0 +1,20 @@
+.imagenImpresion {
+  width: 100%;
+}
+
+.titleImpresionOrden {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  font-size: 1.5em;
+}
+
+ .opcion  {
+     color:  black;
+     font-weight: bold;
+   
+ }
+ .value {
+     border: 1px solid black;
+    color: black;
+ }
