@@ -22,7 +22,7 @@
     "react-to-print": "^2.4.0",
     "recharts": "^1.6.2",
     "sweetalert2": "^8.13.0",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
